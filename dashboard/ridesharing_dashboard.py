@@ -518,4 +518,4 @@ st.markdown('</div>', unsafe_allow_html=True)
 
 # Footer
 st.markdown("---")
-st.markdown("**Built with:** Python, Streamlit, Plotly | ** Project:** Advanced SQL Analytics | ** Focus:**  Mobility Platform Intelligence")
+st.markdown("**Built with:** Python, Streamlit, Plotly | **Project:** Advanced SQL Analytics | **Focus:**  Mobility Platform Intelligence")
