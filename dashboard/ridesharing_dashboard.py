@@ -69,8 +69,8 @@ def load_data():
         return None, None, None
 
 # Main title
-st.markdown('<h1 class="main-header">🚗 Ride Sharing Analytics Dashboard</h1>', unsafe_allow_html=True)
-st.markdown("**Advanced SQL Project Visualization** | *Business Intelligence for Mobility Platform Strategy*")
+st.markdown('<h1 class="main-header"> Ride Sharing Analytics Dashboard</h1>', unsafe_allow_html=True)
+
 
 drivers, trips, payments = load_data()
 
