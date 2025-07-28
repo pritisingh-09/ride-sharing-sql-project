@@ -8,10 +8,10 @@
 
 A comprehensive SQL analytics project demonstrating advanced data analysis capabilities using ride-sharing business data. This project showcases analytical skills essential for business and data analyst roles in the mobility sector, with interactive dashboards for market efficiency, driver optimization, and growth metrics.
 
-![Dashboard Preview](Images/Image1.jpeg)
-(Images/Image2.jpeg)
-(Images/Image3.jpeg)
-(Images/Image4.jpeg)
+![Dashboard Preview](images/Image1.jpeg)
+![Dashboard Preview](images/Image2.jpeg)
+![Dashboard Preview](images/Image3.jpeg)
+![Dashboard Preview](images/Image4.jpeg)
 
 ## 📂 Project Structure
 
