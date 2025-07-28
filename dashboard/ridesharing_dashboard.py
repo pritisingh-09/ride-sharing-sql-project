@@ -49,9 +49,9 @@ st.markdown("""
 @st.cache_data
 def load_data():
     try:
-        drivers = pd.read_csv('drivers.csv')
-        trips = pd.read_csv('trips.csv')
-        payments = pd.read_csv('payments.csv')
+        drivers = pd.read_csv('data/drivers.csv')
+        trips = pd.read_csv('data/trips.csv')
+        payments = pd.read_csv('data/payments.csv')
 
         # Data preprocessing
         trips['trip_datetime'] = pd.to_datetime(trips['trip_datetime'])
