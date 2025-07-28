@@ -1,0 +1,501 @@
+driver_id,signup_date,city,vehicle_type,driver_rating,total_trips_completed,status
+1,2023-01-09,New York,Luxury,4.27,1767,active
+2,2023-07-18,Bronx,XL,4.34,156,active
+3,2023-03-11,Bronx,XL,4.7,385,active
+4,2023-07-25,New York,Luxury,4.07,696,inactive
+5,2023-02-02,New York,Premium,4.13,1906,active
+6,2023-05-14,Bronx,Luxury,4.27,1765,active
+7,2023-05-11,Bronx,Luxury,4.21,1297,inactive
+8,2023-01-13,Bronx,Luxury,4.68,1357,inactive
+9,2023-09-22,Manhattan,XL,4.51,1785,active
+10,2023-12-27,New York,Luxury,4.66,398,inactive
+11,2023-06-18,Manhattan,Standard,4.72,843,inactive
+12,2023-01-07,Bronx,Standard,4.83,794,active
+13,2023-06-08,Manhattan,Standard,4.64,1063,active
+14,2023-09-16,Brooklyn,Premium,4.99,960,inactive
+15,2023-08-02,New York,Premium,4.46,93,inactive
+16,2023-06-22,Queens,Luxury,4.63,50,active
+17,2023-10-03,Bronx,XL,4.71,219,inactive
+18,2023-01-26,Bronx,Luxury,4.07,1471,inactive
+19,2023-01-11,Queens,Luxury,4.03,1200,inactive
+20,2023-07-12,New York,Premium,4.88,908,active
+21,2023-12-28,Brooklyn,XL,4.67,1573,active
+22,2023-11-02,Bronx,Luxury,4.54,349,inactive
+23,2023-07-12,Brooklyn,XL,4.52,1339,active
+24,2023-10-13,Manhattan,Standard,4.74,981,active
+25,2023-06-15,Manhattan,XL,4.43,1635,active
+26,2023-03-17,Queens,Premium,4.34,264,inactive
+27,2023-04-19,Queens,Standard,4.27,1086,active
+28,2023-04-11,Queens,Luxury,4.04,1075,active
+29,2023-04-17,Brooklyn,Standard,4.19,1206,active
+30,2023-02-20,Queens,Standard,4.34,1151,active
+31,2023-09-05,Manhattan,Luxury,4.73,1641,active
+32,2023-05-23,Bronx,Luxury,4.34,1922,active
+33,2023-09-05,Bronx,Standard,4.9,1668,inactive
+34,2023-06-23,Bronx,Standard,4.69,788,inactive
+35,2023-06-22,Manhattan,XL,4.36,1627,inactive
+36,2023-06-26,Brooklyn,Premium,4.38,1700,active
+37,2023-07-13,Bronx,XL,4.83,408,inactive
+38,2023-06-03,Queens,Standard,4.91,1079,inactive
+39,2023-01-13,New York,Luxury,4.3,1003,inactive
+40,2023-04-21,Manhattan,XL,4.84,1202,inactive
+41,2023-04-23,Manhattan,XL,4.34,149,active
+42,2023-02-01,Manhattan,Luxury,4.73,1027,active
+43,2023-08-18,Brooklyn,XL,4.87,1875,active
+44,2023-10-28,New York,Luxury,4.5,1912,inactive
+45,2023-12-19,New York,XL,4.73,516,active
+46,2023-05-10,Brooklyn,Luxury,4.36,138,active
+47,2023-08-22,Brooklyn,Premium,4.05,1124,active
+48,2023-12-17,Brooklyn,XL,4.5,1844,inactive
+49,2023-04-10,Bronx,Standard,4.1,1305,inactive
+50,2023-04-17,New York,Luxury,4.41,1671,inactive
+51,2023-02-02,Bronx,Luxury,4.76,942,inactive
+52,2023-03-16,Brooklyn,Premium,4.93,544,active
+53,2023-04-07,New York,Luxury,4.93,72,inactive
+54,2023-11-11,Bronx,Standard,4.04,1978,active
+55,2023-12-28,Manhattan,XL,4.93,672,active
+56,2023-05-22,Queens,Premium,4.52,1583,inactive
+57,2023-03-15,Brooklyn,Luxury,4.22,1406,inactive
+58,2023-07-18,Brooklyn,Luxury,4.08,1901,inactive
+59,2023-01-10,Brooklyn,Luxury,4.73,1919,active
+60,2023-03-04,Manhattan,XL,4.55,85,inactive
+61,2023-09-12,Queens,XL,4.21,1968,active
+62,2023-02-17,New York,XL,4.74,1648,active
+63,2023-07-06,Manhattan,Premium,4.88,337,active
+64,2023-03-26,New York,XL,4.03,349,active
+65,2023-08-14,Brooklyn,Luxury,4.06,360,active
+66,2023-08-23,New York,Premium,4.67,785,inactive
+67,2023-04-27,Brooklyn,Premium,4.78,749,active
+68,2023-02-22,New York,XL,4.33,870,inactive
+69,2023-04-27,New York,Standard,4.55,275,active
+70,2023-05-08,Brooklyn,Standard,4.78,1288,inactive
+71,2023-07-18,Queens,XL,4.63,1783,inactive
+72,2023-01-20,Queens,XL,4.31,1773,active
+73,2023-06-17,New York,XL,4.08,1523,active
+74,2023-10-11,Manhattan,Standard,4.73,1576,active
+75,2023-07-21,New York,Premium,4.21,783,inactive
+76,2023-08-10,Bronx,Premium,4.39,583,active
+77,2023-11-22,Brooklyn,Premium,4.37,256,active
+78,2023-12-20,New York,XL,4.12,1922,active
+79,2023-06-02,Queens,XL,4.13,891,active
+80,2023-10-09,Bronx,Standard,4.67,297,inactive
+81,2023-05-26,Queens,Luxury,4.96,60,active
+82,2023-02-20,New York,Luxury,4.84,1724,inactive
+83,2023-11-06,Brooklyn,Luxury,4.0,479,active
+84,2023-01-26,Manhattan,Premium,4.8,221,active
+85,2023-09-09,Manhattan,Premium,4.78,848,inactive
+86,2023-02-28,New York,Standard,4.79,856,inactive
+87,2023-10-02,Bronx,Premium,4.88,687,inactive
+88,2023-01-22,Brooklyn,XL,4.28,459,inactive
+89,2023-04-16,New York,Luxury,4.07,1686,active
+90,2023-03-22,New York,Premium,4.9,178,inactive
+91,2023-10-07,Manhattan,Luxury,4.71,1972,inactive
+92,2023-02-27,Brooklyn,Standard,4.44,1972,inactive
+93,2023-12-01,Brooklyn,Standard,4.16,1368,active
+94,2023-12-02,Manhattan,Luxury,4.62,733,active
+95,2023-11-22,Manhattan,Luxury,4.66,262,active
+96,2023-01-07,Brooklyn,Premium,4.78,1404,inactive
+97,2023-06-17,Manhattan,XL,4.28,1779,active
+98,2023-09-17,Bronx,Standard,4.99,1944,active
+99,2023-10-20,Brooklyn,Standard,4.45,1391,active
+100,2023-11-26,Bronx,Luxury,4.03,656,inactive
+101,2023-06-21,Queens,XL,4.2,131,inactive
+102,2023-01-19,New York,Luxury,4.8,1594,inactive
+103,2023-11-06,New York,Standard,4.23,835,active
+104,2023-09-22,New York,Luxury,4.93,1598,active
+105,2023-11-26,Bronx,Luxury,4.34,1970,inactive
+106,2023-11-09,Queens,Luxury,4.18,259,active
+107,2023-12-17,Brooklyn,XL,4.93,337,active
+108,2023-11-06,Manhattan,Premium,4.77,1853,active
+109,2023-09-21,Brooklyn,Luxury,4.5,60,inactive
+110,2023-03-09,Queens,Luxury,4.22,924,inactive
+111,2023-07-11,New York,Luxury,4.86,1477,active
+112,2023-06-15,Manhattan,Standard,4.11,1511,inactive
+113,2023-06-11,Brooklyn,Luxury,4.73,1733,inactive
+114,2023-11-08,New York,Premium,4.13,969,active
+115,2023-11-27,Manhattan,Luxury,4.64,79,inactive
+116,2023-11-05,Queens,XL,4.54,1430,active
+117,2023-06-07,New York,Standard,4.56,1109,active
+118,2023-10-16,Bronx,Luxury,4.4,1073,active
+119,2023-04-06,Queens,Premium,4.33,899,inactive
+120,2023-02-13,New York,XL,4.51,819,active
+121,2023-04-09,New York,Standard,4.37,439,active
+122,2023-02-14,Manhattan,Luxury,4.95,1513,active
+123,2023-07-02,New York,XL,4.95,854,inactive
+124,2023-12-11,Queens,XL,4.06,1290,active
+125,2023-02-01,Manhattan,Luxury,4.5,117,active
+126,2023-05-11,Queens,Premium,4.32,1016,inactive
+127,2023-04-18,New York,Luxury,4.84,475,inactive
+128,2023-04-23,Manhattan,Premium,4.85,1914,active
+129,2023-04-15,Manhattan,XL,4.48,965,inactive
+130,2023-05-14,Queens,Standard,4.65,1824,inactive
+131,2023-02-28,Bronx,XL,4.38,1204,active
+132,2023-04-25,New York,Premium,4.7,1667,inactive
+133,2023-11-20,Queens,Premium,4.78,408,active
+134,2023-12-14,New York,Luxury,4.55,804,inactive
+135,2023-12-21,Brooklyn,Premium,4.34,1254,active
+136,2023-03-26,Queens,Luxury,4.15,980,inactive
+137,2023-10-08,Bronx,Premium,4.3,1254,active
+138,2023-05-25,Brooklyn,Luxury,4.03,374,inactive
+139,2023-10-22,Brooklyn,XL,4.04,548,active
+140,2023-06-07,New York,Premium,4.91,941,active
+141,2023-02-18,Bronx,Standard,4.61,535,active
+142,2023-07-05,Brooklyn,XL,4.17,1616,active
+143,2023-10-12,Manhattan,Standard,4.62,686,inactive
+144,2023-07-24,Bronx,Premium,4.91,344,active
+145,2023-04-10,Manhattan,Premium,4.99,1253,active
+146,2023-03-17,Brooklyn,Premium,4.5,1575,active
+147,2023-02-10,Brooklyn,Standard,4.5,1619,inactive
+148,2023-04-18,Brooklyn,Luxury,4.92,1826,active
+149,2023-05-09,Bronx,XL,4.27,360,active
+150,2023-04-01,New York,Luxury,4.51,1049,active
+151,2023-03-15,Queens,Standard,4.44,685,active
+152,2023-08-21,New York,Premium,4.27,310,inactive
+153,2023-12-24,Manhattan,XL,4.12,1063,inactive
+154,2023-06-12,New York,Premium,4.97,1945,inactive
+155,2023-05-19,Bronx,Standard,4.1,1368,inactive
+156,2023-06-27,Manhattan,Luxury,4.39,415,active
+157,2023-03-21,Queens,Premium,4.72,1597,active
+158,2023-11-18,Brooklyn,Luxury,4.37,379,inactive
+159,2023-10-12,Manhattan,Luxury,4.69,61,active
+160,2023-08-08,Bronx,Premium,4.15,1276,inactive
+161,2023-08-26,Bronx,XL,4.97,57,inactive
+162,2023-06-15,New York,Premium,4.02,322,inactive
+163,2023-03-16,Brooklyn,Premium,4.24,306,active
+164,2023-11-09,Manhattan,Luxury,4.06,1203,inactive
+165,2023-05-26,Queens,Premium,4.08,1566,inactive
+166,2023-11-10,New York,XL,4.17,904,inactive
+167,2023-08-18,Manhattan,Standard,4.06,353,inactive
+168,2023-07-08,New York,Luxury,4.04,1807,inactive
+169,2023-03-07,Brooklyn,Standard,4.69,185,active
+170,2023-09-18,Bronx,Luxury,4.54,1066,inactive
+171,2023-11-07,Queens,Luxury,4.81,1378,active
+172,2023-09-20,Brooklyn,Premium,4.03,1437,active
+173,2023-11-28,Queens,XL,4.86,637,active
+174,2023-09-27,Manhattan,XL,4.13,362,active
+175,2023-06-21,Brooklyn,XL,4.11,947,active
+176,2023-12-25,New York,XL,4.61,1786,active
+177,2023-11-20,Manhattan,XL,4.66,400,active
+178,2023-05-21,Manhattan,Premium,4.44,1331,inactive
+179,2023-04-19,Queens,XL,4.92,1245,inactive
+180,2023-11-16,Queens,XL,4.16,1067,active
+181,2023-11-05,Brooklyn,Luxury,4.74,1415,inactive
+182,2023-07-22,Manhattan,Premium,4.21,101,active
+183,2023-11-08,Brooklyn,Premium,4.26,941,active
+184,2023-10-17,Manhattan,Luxury,4.75,1936,active
+185,2023-02-24,Bronx,Premium,4.96,1418,active
+186,2023-04-02,Manhattan,XL,4.34,1426,inactive
+187,2023-07-18,New York,XL,4.65,828,active
+188,2023-10-14,Brooklyn,XL,4.23,1146,active
+189,2023-03-25,Manhattan,XL,4.78,1651,active
+190,2023-01-16,New York,Standard,4.4,385,active
+191,2023-03-11,Brooklyn,XL,4.24,1589,active
+192,2023-08-01,New York,Standard,4.51,1026,inactive
+193,2023-09-05,Brooklyn,Luxury,4.74,1239,active
+194,2023-02-14,New York,Luxury,4.06,1570,inactive
+195,2023-11-03,Brooklyn,Luxury,4.58,523,active
+196,2023-04-08,Brooklyn,Premium,4.09,594,inactive
+197,2023-02-08,Brooklyn,Standard,4.68,813,inactive
+198,2023-02-08,Bronx,XL,4.01,179,inactive
+199,2023-02-25,Bronx,Luxury,4.25,1792,inactive
+200,2023-08-28,Bronx,Premium,4.56,1044,active
+201,2023-02-26,New York,Standard,4.1,1019,inactive
+202,2023-04-17,Bronx,Standard,4.92,1534,active
+203,2023-06-24,Brooklyn,Premium,4.95,1805,active
+204,2023-10-28,Bronx,XL,4.86,178,inactive
+205,2023-01-28,New York,XL,4.85,208,inactive
+206,2023-07-22,Manhattan,XL,4.12,1001,active
+207,2023-10-18,Bronx,XL,4.53,1199,inactive
+208,2023-08-21,Bronx,XL,4.17,1643,active
+209,2023-11-15,Queens,Standard,4.09,1842,active
+210,2023-08-13,Brooklyn,Luxury,4.31,1148,inactive
+211,2023-11-18,Bronx,Standard,4.73,270,inactive
+212,2023-11-05,Brooklyn,Luxury,4.89,334,inactive
+213,2023-12-04,Queens,Premium,4.8,224,active
+214,2023-10-27,Bronx,XL,4.34,696,inactive
+215,2023-05-03,Brooklyn,Standard,4.89,855,inactive
+216,2023-07-25,New York,XL,4.86,507,inactive
+217,2023-08-22,Bronx,Premium,4.46,479,active
+218,2023-11-06,Bronx,XL,4.13,427,inactive
+219,2023-02-13,Queens,Premium,4.42,1544,inactive
+220,2023-03-01,Queens,Standard,4.86,504,inactive
+221,2023-07-06,Queens,XL,4.3,1648,active
+222,2023-12-08,Manhattan,Premium,4.0,131,inactive
+223,2023-05-27,Brooklyn,Luxury,4.89,1576,active
+224,2023-04-25,Manhattan,Premium,4.02,1180,active
+225,2023-02-05,Brooklyn,Standard,4.06,234,active
+226,2023-08-16,Bronx,XL,4.18,913,inactive
+227,2023-02-01,Bronx,XL,4.21,1350,inactive
+228,2023-10-21,Queens,Standard,4.54,404,active
+229,2023-05-26,Brooklyn,Luxury,4.02,1786,active
+230,2023-06-20,Manhattan,Luxury,4.72,1764,active
+231,2023-02-25,Brooklyn,Luxury,4.7,1852,active
+232,2023-04-12,New York,Premium,4.3,1402,inactive
+233,2023-01-25,Bronx,Luxury,4.45,473,inactive
+234,2023-02-19,Bronx,Luxury,4.35,1388,active
+235,2023-04-02,Brooklyn,Premium,4.17,894,inactive
+236,2023-11-24,Brooklyn,Standard,4.01,1195,inactive
+237,2023-07-22,New York,Standard,4.33,852,inactive
+238,2023-11-19,Queens,XL,4.96,1618,inactive
+239,2023-07-05,Brooklyn,Standard,4.92,1426,active
+240,2023-06-07,New York,Standard,4.91,405,active
+241,2023-04-10,Queens,XL,4.57,681,active
+242,2023-09-16,Bronx,Standard,4.3,631,inactive
+243,2023-01-21,New York,Standard,4.36,224,inactive
+244,2023-02-18,Brooklyn,Standard,4.53,1894,inactive
+245,2023-09-02,Brooklyn,XL,4.27,737,inactive
+246,2023-05-20,Brooklyn,Premium,4.89,490,inactive
+247,2023-07-08,New York,Premium,4.92,900,inactive
+248,2023-01-11,Queens,Standard,4.2,325,inactive
+249,2023-12-12,Queens,XL,4.86,795,active
+250,2023-02-21,Bronx,Premium,4.91,718,inactive
+251,2023-04-17,Queens,Premium,4.47,1499,active
+252,2023-06-22,Manhattan,XL,4.86,919,inactive
+253,2023-08-16,New York,Standard,4.9,1185,active
+254,2023-09-28,Queens,Luxury,4.07,637,active
+255,2023-02-06,Manhattan,XL,4.14,1429,inactive
+256,2023-12-03,Brooklyn,XL,4.08,276,inactive
+257,2023-01-23,Manhattan,Premium,4.52,1881,active
+258,2023-01-07,Bronx,Premium,4.18,1371,active
+259,2023-09-06,New York,Premium,4.34,1150,active
+260,2023-08-26,Manhattan,XL,4.18,147,active
+261,2023-07-08,Bronx,Standard,4.81,1301,active
+262,2023-11-18,New York,Standard,4.55,1308,active
+263,2023-06-05,Manhattan,Luxury,4.45,157,active
+264,2023-02-21,Brooklyn,Standard,4.86,1625,active
+265,2023-04-17,New York,XL,4.6,870,inactive
+266,2023-09-15,Manhattan,XL,4.98,321,inactive
+267,2023-08-24,Brooklyn,Standard,4.6,918,inactive
+268,2023-09-07,Manhattan,XL,4.35,774,active
+269,2023-11-02,Manhattan,Standard,4.47,606,inactive
+270,2023-06-24,Manhattan,Standard,4.55,1890,active
+271,2023-03-14,Manhattan,Luxury,4.73,1121,inactive
+272,2023-05-25,Queens,Luxury,4.89,1233,inactive
+273,2023-06-22,Manhattan,Standard,4.28,536,active
+274,2023-02-07,Bronx,XL,4.57,1840,inactive
+275,2023-12-02,Manhattan,Premium,4.45,730,active
+276,2023-01-15,New York,XL,4.09,1107,active
+277,2023-06-06,Queens,Premium,4.66,263,active
+278,2023-10-03,Queens,XL,4.52,443,inactive
+279,2023-08-10,Brooklyn,Standard,4.29,581,active
+280,2023-07-09,Bronx,Standard,4.1,507,inactive
+281,2023-01-27,Brooklyn,Premium,4.38,1955,active
+282,2023-06-14,New York,XL,4.05,1943,active
+283,2023-03-11,Bronx,XL,4.72,779,inactive
+284,2023-07-20,Manhattan,XL,4.52,86,inactive
+285,2023-05-02,Brooklyn,XL,4.42,745,inactive
+286,2023-07-05,Brooklyn,Premium,4.62,683,active
+287,2023-07-15,Bronx,XL,4.82,1188,inactive
+288,2023-05-28,Queens,Premium,4.05,1643,inactive
+289,2023-11-01,Brooklyn,Luxury,4.04,1367,active
+290,2023-02-27,Brooklyn,Premium,4.22,981,active
+291,2023-02-26,Brooklyn,Standard,4.02,1998,active
+292,2023-03-22,New York,Luxury,4.68,504,active
+293,2023-08-06,New York,Standard,4.48,807,active
+294,2023-12-23,New York,Luxury,4.83,800,inactive
+295,2023-10-02,New York,Standard,4.64,1089,inactive
+296,2023-10-18,Manhattan,XL,4.03,1027,inactive
+297,2023-11-13,New York,XL,4.36,975,inactive
+298,2023-09-12,Brooklyn,Standard,4.41,92,active
+299,2023-08-01,Manhattan,Luxury,4.63,1943,active
+300,2023-07-21,Manhattan,XL,4.71,1715,inactive
+301,2023-09-12,Queens,XL,4.72,652,inactive
+302,2023-09-11,Bronx,XL,4.87,1398,inactive
+303,2023-04-25,Bronx,Premium,4.59,110,active
+304,2023-11-27,Queens,Standard,4.78,1676,inactive
+305,2023-12-09,New York,XL,4.32,1225,active
+306,2023-05-20,Brooklyn,XL,4.83,59,inactive
+307,2023-05-03,Bronx,XL,4.14,887,active
+308,2023-01-24,Bronx,Luxury,4.66,1131,inactive
+309,2023-03-21,Brooklyn,Premium,5.0,1022,active
+310,2023-12-12,New York,Standard,4.47,714,inactive
+311,2023-11-04,Bronx,Luxury,4.6,1370,inactive
+312,2023-04-11,New York,XL,4.6,939,inactive
+313,2023-12-08,Queens,Premium,4.1,1078,inactive
+314,2023-05-20,Queens,Premium,4.32,323,inactive
+315,2023-12-04,Queens,Premium,4.91,1245,inactive
+316,2023-02-16,New York,Premium,4.98,818,active
+317,2023-02-07,Bronx,XL,4.35,194,active
+318,2023-07-25,Manhattan,Luxury,4.88,1580,inactive
+319,2023-04-14,Queens,Luxury,4.48,1560,inactive
+320,2023-08-10,Brooklyn,Premium,4.71,1363,inactive
+321,2023-09-16,Queens,Standard,4.46,1293,inactive
+322,2023-08-26,Bronx,Standard,4.33,194,inactive
+323,2023-01-02,New York,Standard,4.31,464,active
+324,2023-03-20,Bronx,Standard,4.71,1918,active
+325,2023-12-15,New York,Luxury,4.32,275,active
+326,2023-06-15,Brooklyn,Standard,4.08,1892,active
+327,2023-12-11,Brooklyn,Standard,4.27,1823,active
+328,2023-04-11,New York,XL,4.5,1760,active
+329,2023-02-07,Bronx,XL,4.76,860,inactive
+330,2023-10-14,Brooklyn,Standard,4.3,1767,active
+331,2023-10-08,Queens,Standard,4.14,1816,active
+332,2023-07-13,Manhattan,Premium,4.43,811,inactive
+333,2023-10-11,Bronx,Premium,4.77,428,inactive
+334,2023-05-13,Queens,XL,4.06,1817,inactive
+335,2023-11-19,Queens,XL,4.4,2000,active
+336,2023-04-04,Manhattan,Standard,4.14,558,active
+337,2023-08-11,Bronx,Premium,4.48,588,inactive
+338,2023-05-08,Manhattan,XL,4.47,1247,active
+339,2023-05-20,New York,Premium,4.53,531,active
+340,2023-10-25,Brooklyn,Premium,4.23,913,active
+341,2023-12-27,Manhattan,Standard,4.57,1155,inactive
+342,2023-12-21,Queens,Premium,4.67,575,active
+343,2023-12-11,Queens,Premium,4.32,51,inactive
+344,2023-05-21,Queens,XL,4.22,141,inactive
+345,2023-10-23,Brooklyn,Premium,4.25,275,inactive
+346,2023-08-23,Bronx,XL,4.17,553,active
+347,2023-11-23,Manhattan,Standard,4.58,75,active
+348,2023-10-14,Manhattan,XL,4.03,955,active
+349,2023-11-10,Brooklyn,XL,4.41,1648,active
+350,2023-07-26,Brooklyn,Premium,4.27,1965,active
+351,2023-01-11,Bronx,Standard,4.06,1018,inactive
+352,2023-10-01,New York,Standard,4.64,1404,inactive
+353,2023-12-06,Manhattan,XL,4.61,1955,inactive
+354,2023-01-11,Bronx,XL,4.79,1706,active
+355,2023-06-27,New York,Luxury,4.79,1816,inactive
+356,2023-03-03,Manhattan,XL,4.21,332,active
+357,2023-12-25,Bronx,Luxury,4.73,1184,active
+358,2023-12-19,Queens,Standard,4.43,1406,inactive
+359,2023-01-08,Manhattan,Premium,4.09,625,inactive
+360,2023-05-25,Brooklyn,XL,4.8,1355,inactive
+361,2023-11-06,Bronx,XL,4.23,1612,active
+362,2023-12-15,New York,Premium,4.47,244,active
+363,2023-11-25,Queens,XL,4.43,431,active
+364,2023-11-05,Brooklyn,Luxury,4.72,373,active
+365,2023-09-21,Brooklyn,Premium,4.23,1246,inactive
+366,2023-04-08,Bronx,Standard,4.88,1976,inactive
+367,2023-01-02,Brooklyn,Luxury,4.7,1533,active
+368,2023-10-10,New York,Premium,4.27,394,active
+369,2023-08-14,Manhattan,Premium,4.54,249,active
+370,2023-08-23,Queens,Luxury,4.11,1684,active
+371,2023-05-26,Bronx,Standard,5.0,889,active
+372,2023-04-08,Bronx,Premium,4.12,355,inactive
+373,2023-10-23,Queens,XL,4.08,1222,inactive
+374,2023-08-04,Brooklyn,XL,4.32,1703,active
+375,2023-03-19,New York,XL,4.93,1563,active
+376,2023-07-17,New York,Standard,4.44,1525,active
+377,2023-09-13,Manhattan,Standard,4.95,92,inactive
+378,2023-01-08,New York,Luxury,4.06,1984,inactive
+379,2023-02-08,Bronx,Premium,4.15,1259,inactive
+380,2023-03-19,Bronx,Luxury,4.21,507,inactive
+381,2023-11-08,Manhattan,XL,4.59,1544,active
+382,2023-01-06,New York,Premium,4.21,216,active
+383,2023-01-15,Brooklyn,Standard,4.41,1311,inactive
+384,2023-04-26,Bronx,Luxury,4.72,1927,active
+385,2023-01-01,New York,XL,4.99,1809,inactive
+386,2023-03-06,Brooklyn,Luxury,4.05,695,active
+387,2023-09-05,Manhattan,Luxury,4.92,1981,inactive
+388,2023-06-24,Bronx,Standard,4.1,1079,active
+389,2023-07-10,Queens,Premium,4.4,1830,active
+390,2023-12-07,Queens,XL,4.31,1672,inactive
+391,2023-01-22,New York,Standard,4.57,151,active
+392,2023-12-13,Bronx,XL,4.08,1236,active
+393,2023-09-03,Brooklyn,XL,4.91,151,inactive
+394,2023-04-16,Brooklyn,XL,4.44,1428,inactive
+395,2023-08-16,Brooklyn,Standard,4.96,871,active
+396,2023-10-19,Brooklyn,XL,4.35,1131,inactive
+397,2023-05-14,New York,XL,4.89,876,active
+398,2023-03-16,Manhattan,Standard,4.04,908,inactive
+399,2023-08-13,Bronx,XL,4.75,704,inactive
+400,2023-03-17,Brooklyn,Premium,4.02,177,inactive
+401,2023-04-02,Manhattan,Luxury,4.36,1814,inactive
+402,2023-05-13,Bronx,XL,4.0,530,active
+403,2023-10-06,Brooklyn,Luxury,4.56,1794,active
+404,2023-01-05,Queens,Luxury,4.65,230,active
+405,2023-12-08,Bronx,XL,4.45,1675,inactive
+406,2023-07-09,Bronx,Standard,4.05,1333,inactive
+407,2023-12-07,Manhattan,Standard,4.51,811,active
+408,2023-05-03,Manhattan,Premium,4.09,1644,inactive
+409,2023-06-04,Brooklyn,Luxury,4.77,1960,inactive
+410,2023-11-15,New York,XL,4.46,1062,active
+411,2023-01-22,Bronx,Premium,4.67,269,active
+412,2023-04-12,New York,XL,4.4,491,inactive
+413,2023-02-04,Manhattan,XL,4.11,1969,active
+414,2023-08-21,Brooklyn,Premium,4.87,381,active
+415,2023-10-04,Manhattan,Standard,4.77,1190,active
+416,2023-02-25,Queens,Standard,4.12,1345,inactive
+417,2023-11-07,Brooklyn,XL,4.54,1165,inactive
+418,2023-01-22,Brooklyn,XL,4.88,511,active
+419,2023-05-14,New York,Luxury,4.54,1450,active
+420,2023-11-23,New York,XL,4.25,1926,inactive
+421,2023-12-23,New York,Standard,4.12,627,inactive
+422,2023-12-03,Brooklyn,Luxury,5.0,1318,active
+423,2023-01-02,Manhattan,Standard,4.27,82,inactive
+424,2023-01-27,Manhattan,Luxury,4.82,1956,inactive
+425,2023-07-01,Manhattan,Premium,4.71,1766,inactive
+426,2023-05-27,Brooklyn,XL,4.32,535,inactive
+427,2023-06-10,Brooklyn,Luxury,4.8,726,active
+428,2023-01-03,New York,Luxury,4.73,1212,active
+429,2023-09-23,New York,Luxury,4.02,1838,active
+430,2023-09-13,New York,Luxury,4.11,1570,active
+431,2023-12-24,New York,Standard,4.38,525,active
+432,2023-05-13,Queens,XL,4.97,1514,active
+433,2023-09-13,Manhattan,Luxury,4.38,1399,inactive
+434,2023-01-06,Manhattan,Premium,4.67,598,inactive
+435,2023-02-19,Queens,XL,4.59,1756,active
+436,2023-01-22,Brooklyn,Standard,4.63,1359,active
+437,2023-06-12,Brooklyn,Premium,4.49,1759,active
+438,2023-08-27,Brooklyn,Luxury,4.77,1207,active
+439,2023-08-06,Brooklyn,Premium,4.04,555,active
+440,2023-07-20,Manhattan,Luxury,4.67,442,inactive
+441,2023-09-09,Manhattan,Standard,4.37,1072,active
+442,2023-05-15,Queens,Premium,4.13,80,inactive
+443,2023-05-15,Queens,XL,4.46,130,active
+444,2023-04-18,New York,Premium,4.75,598,active
+445,2023-12-12,Manhattan,XL,4.15,52,inactive
+446,2023-12-24,Queens,XL,4.9,1771,active
+447,2023-01-11,Manhattan,XL,4.74,1863,inactive
+448,2023-08-04,Brooklyn,XL,4.88,308,active
+449,2023-02-12,Queens,XL,4.18,137,inactive
+450,2023-07-11,New York,Premium,4.78,1285,active
+451,2023-06-10,Brooklyn,Premium,4.91,1080,active
+452,2023-03-06,Manhattan,Standard,4.66,1706,inactive
+453,2023-12-06,Manhattan,Standard,4.58,1636,inactive
+454,2023-05-02,Bronx,Luxury,4.04,1073,active
+455,2023-05-09,Queens,Premium,4.97,685,active
+456,2023-03-15,Brooklyn,Luxury,4.35,1996,inactive
+457,2023-07-09,Queens,Premium,4.54,908,active
+458,2023-08-10,New York,XL,4.33,419,inactive
+459,2023-01-10,Manhattan,Premium,4.68,1256,inactive
+460,2023-09-23,New York,Premium,4.52,428,active
+461,2023-02-24,Manhattan,Premium,4.41,286,active
+462,2023-07-06,Bronx,Premium,4.34,1864,active
+463,2023-07-15,New York,Luxury,4.65,180,inactive
+464,2023-05-20,Manhattan,XL,4.26,1045,active
+465,2023-08-12,New York,Standard,4.54,1913,active
+466,2023-05-01,New York,Premium,4.81,648,inactive
+467,2023-10-19,Manhattan,Standard,4.56,1236,inactive
+468,2023-12-27,Manhattan,Luxury,4.0,969,inactive
+469,2023-04-26,Bronx,Luxury,4.84,202,active
+470,2023-08-16,Queens,Standard,4.19,205,active
+471,2023-08-01,New York,XL,4.32,991,inactive
+472,2023-04-24,Bronx,XL,4.77,828,inactive
+473,2023-11-22,New York,Premium,4.15,1672,inactive
+474,2023-12-13,New York,Luxury,4.75,1235,inactive
+475,2023-05-08,Brooklyn,XL,4.91,1570,active
+476,2023-08-02,Queens,Luxury,4.46,1504,inactive
+477,2023-01-01,Manhattan,Luxury,4.07,1457,active
+478,2023-01-10,New York,Premium,4.8,125,active
+479,2023-02-07,Queens,Standard,4.53,1032,inactive
+480,2023-04-27,Queens,Luxury,4.53,282,active
+481,2023-06-28,Bronx,Standard,4.76,1362,active
+482,2023-08-07,Brooklyn,Premium,4.62,766,active
+483,2023-10-09,Brooklyn,Standard,4.15,99,inactive
+484,2023-05-02,Brooklyn,Standard,4.45,1341,active
+485,2023-02-27,Manhattan,Standard,4.8,1058,inactive
+486,2023-11-03,New York,Premium,4.1,1966,inactive
+487,2023-12-27,Bronx,Premium,4.65,1179,active
+488,2023-04-07,Queens,Standard,4.92,521,active
+489,2023-09-16,Manhattan,Standard,4.04,1084,active
+490,2023-09-01,Brooklyn,Luxury,4.9,1134,active
+491,2023-12-13,Brooklyn,Luxury,4.66,265,inactive
+492,2023-08-19,Bronx,Premium,4.13,775,inactive
+493,2023-11-01,Queens,XL,4.26,1305,active
+494,2023-08-16,New York,Luxury,4.61,74,active
+495,2023-06-09,Queens,Luxury,4.43,1825,active
+496,2023-03-11,Brooklyn,Luxury,4.1,653,active
+497,2023-03-08,Bronx,Luxury,4.22,680,active
+498,2023-05-07,Queens,XL,4.47,374,active
+499,2023-10-15,Brooklyn,XL,4.76,1086,inactive
+500,2023-05-22,Manhattan,Premium,4.13,1575,inactive
